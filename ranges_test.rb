@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/ruby -w
 
 $, =", "   # Array value separator
 range1 = (1..10).to_a
