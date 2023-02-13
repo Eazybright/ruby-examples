@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/ruby -w
 
 names = Array.new(20)
 puts names.size  # This returns 20
